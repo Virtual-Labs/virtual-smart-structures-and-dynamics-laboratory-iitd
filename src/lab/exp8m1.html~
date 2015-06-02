@@ -485,7 +485,7 @@ function MM_preloadImages() { //v3.0
   <p class=MsoNormal><a href="http://web.iitd.ac.in/~strlab/"></a></p>
   </td>
  </tr>
-<tr bgcolor="#000000"><td colspan="7" id="dateformat" height="2"></td></tr>
+<tr bgcolor="#000000"><td colspan="7" id="dateformat" height="2"></td></tr> <
  <tr style='mso-yfti-irow:7'>
   <td width=10 valign=top style='width:7.2pt;padding:0mm 0mm 0mm 0mm'>
   <p class=MsoNormal>&nbsp;</p>
