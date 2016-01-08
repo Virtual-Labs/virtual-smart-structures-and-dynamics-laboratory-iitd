@@ -1,0 +1,30 @@
+* Author: Nihanth
+* Date Created: 08 Jan 2016
+* Environment
+  - OS: Windows 7, Linux
+  - Browsers: Firefox,Chrome
+  - Bandwidth : 100Mbps
+  - Hardware Configuration:8GBRAM , 
+  - Processor:i5
+
+* Objective
+  - To view the  Copyright of “Vibration Characteristics of Aluminum Cantilever Beam using Piezoelectric Sensors” experiment
+
+* Pre conditions
+  - Refer to first test case [[https://github.com/Virtual-Labs/virtual-smart-structures-and-dynamics-laboratory-iitd/blob/master/test-cases/integration_test-cases/Vibration Characteristics of Aluminum Cantilever Beam using Piezoelectric Sensors/Vibration Characteristics of Aluminum Cantilever Beam using Piezoelectric Sensors_01_Usability_smk.org][Vibration Characteristics of Aluminum Cantilever Beam using Piezoelectric Sensors_01_Usability_smk.org]]
+
+* Post conditions
+  - Nil
+* Test Steps
+  1. Click on the “Vibration Characteristics of Aluminum Cantilever Beam using Piezoelectric Sensors” experiment 
+  2. It should re-direct to the experiment home page
+  3. Click on the "Copyright' link  displayed at the bottom of the screen
+
+* Expected result
+  1. Experiment home page should be opened
+  2. Content should be present with no distortions and Junk characters
+  3. It should redirect to the Copyright page
+
+* Review/comments
+
+

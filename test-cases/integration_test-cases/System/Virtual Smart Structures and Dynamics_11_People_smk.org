@@ -1,0 +1,28 @@
+* Author: Nihanth
+* Date Created: 08 Jan 2016
+* Environment
+  - OS: Windows 7, Linux
+  - Browsers: Firefox,Chrome
+  - Bandwidth : 100Mbps
+  - Hardware Configuration:8GBRAM , 
+  - Processor:i5
+
+* Objective
+  - To view the People page of  "Virtual Smart Structures and Dynamics" lab
+
+* Pre conditions
+  - Refer to first test case [[https://github.com/Virtual-Labs/virtual-smart-structures-and-dynamics-laboratory-iitd/blob/master/test-cases/integration_test-cases/System/Virtual Smart Structures and Dynamics_01_Usability_smk.org][Virtual Smart Structures and Dynamics_01_Usability_smk.org]]
+
+* Post conditions
+  - Nil
+* Test Steps
+  1. Click on the People link
+  2. It should redirect to the lab People page
+
+* Expected result
+  1. People page should be opened
+  2. Content should be present with no distortions and Junk characters
+
+* Review/comments
+
+
