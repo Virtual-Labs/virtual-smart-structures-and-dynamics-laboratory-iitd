@@ -1,0 +1,724 @@
+[0112/144944:ERROR:gpu_info_collector_win.cc(102)] Can't retrieve a valid WinSAT assessment.
+[0112/144944:ERROR:gl_surface_egl.cc(133)] eglInitialize failed with error UNKNOWN
+[0112/144944:ERROR:gl_surface_win.cc(97)] GLSurfaceEGL::InitializeOneOff failed.
+[0112/144956:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0112/144956:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0112/144956:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0112/144957:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0112/144957:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0112/144959:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[0112/145103:INFO:CONSOLE(0)] "Uncaught TypeError: Cannot read property 'nodeType' of undefined,0", source: about:docKey-3 (0)
+[0112/145103:INFO:CONSOLE(0)] "Uncaught TypeError: Cannot read property 'nodeType' of undefined", source: http://127.0.0.1:54321/_DRIVE_F_EVIRD_/Corrosion%20rate%20reinforced%20concrete/Corrosion%20rate%20reinforced%20concrete/edge_includes/jquery-2.0.3.min.js (0)
+[0112/145414:ERROR:ipc_channel_win.cc(132)] pipe error: 109
+[0112/145414:ERROR:ipc_channel_win.cc(132)] pipe error: 109
+[0112/152616:ERROR:gpu_info_collector_win.cc(102)] Can't retrieve a valid WinSAT assessment.
+[0112/152618:ERROR:gl_surface_egl.cc(133)] eglInitialize failed with error UNKNOWN
+[0112/152618:ERROR:gl_surface_win.cc(97)] GLSurfaceEGL::InitializeOneOff failed.
+[0112/152634:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0112/152635:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0112/152636:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0112/152641:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0112/152641:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0112/152646:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot call method 'appendChild' of undefined", source: v8/appCss (1)
+[0112/152647:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[0112/155740:ERROR:gpu_info_collector_win.cc(102)] Can't retrieve a valid WinSAT assessment.
+[0112/155740:ERROR:gl_surface_egl.cc(133)] eglInitialize failed with error UNKNOWN
+[0112/155740:ERROR:gl_surface_win.cc(97)] GLSurfaceEGL::InitializeOneOff failed.
+[0112/155752:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0112/155752:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0112/155752:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0112/155753:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0112/155753:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0112/155755:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[0112/161405:ERROR:ipc_channel_win.cc(132)] pipe error: 109
+[0112/162543:ERROR:gpu_info_collector_win.cc(102)] Can't retrieve a valid WinSAT assessment.
+[0112/162543:ERROR:gl_surface_egl.cc(133)] eglInitialize failed with error UNKNOWN
+[0112/162543:ERROR:gl_surface_win.cc(97)] GLSurfaceEGL::InitializeOneOff failed.
+[0112/162556:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0112/162556:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0112/162556:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0112/162557:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0112/162557:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0112/162558:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot call method 'appendChild' of undefined", source: v8/appCss (1)
+[0112/162559:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[0113/094334:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094334:ERROR:gpu_info_collector_win.cc(102)] Can't retrieve a valid WinSAT assessment.
+[0113/094336:ERROR:gl_surface_egl.cc(133)] eglInitialize failed with error UNKNOWN
+[0113/094336:ERROR:gl_surface_win.cc(97)] GLSurfaceEGL::InitializeOneOff failed.
+[0113/094339:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094344:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094349:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094353:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0113/094354:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094354:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0113/094355:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0113/094359:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094401:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0113/094401:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0113/094403:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot call method 'appendChild' of undefined", source: v8/appCss (1)
+[0113/094403:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot call method 'appendChild' of undefined", source: v8/appCss (1)
+[0113/094404:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094407:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[0113/094409:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094410:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0113/094410:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0113/094414:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094419:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094424:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094429:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094434:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094439:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094443:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0113/094443:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0113/094444:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094449:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094454:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094459:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094504:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094509:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094514:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094519:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094524:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094529:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094534:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094539:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094544:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094549:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094554:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094559:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094604:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094609:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094614:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094619:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094624:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094629:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094634:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094639:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094644:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094647:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0113/094647:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0113/094649:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094654:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094659:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094704:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094709:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094714:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094719:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094724:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094729:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094734:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094735:INFO:CONSOLE(1)] "TypeError: Cannot set property 'an_originalId' of undefined
+    at Function.d.data (http://127.0.0.1:54321/_DRIVE_F_EVIRD_/Corrosion%20rate%20reinforced%20concrete/Corrosion%20rate%20reinforced%20concrete/edge_includes/edge.5.0.1.min.js:74:145)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:25)
+    at <anonymous>:0:61", source:  (1)
+[0113/094736:INFO:CONSOLE(1)] "TypeError: Cannot set property 'an_originalId' of undefined
+    at Function.d.data (http://127.0.0.1:54321/_DRIVE_F_EVIRD_/Corrosion%20rate%20reinforced%20concrete/Corrosion%20rate%20reinforced%20concrete/edge_includes/edge.5.0.1.min.js:74:145)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:25)
+    at <anonymous>:0:61", source:  (1)
+[0113/094739:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094744:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094749:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094754:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094759:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094804:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094809:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094814:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094819:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094824:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094829:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094834:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094839:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094844:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094849:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094854:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094859:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094904:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094909:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094914:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094919:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094925:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094930:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094935:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094940:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094945:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094950:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/094955:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095000:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095005:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095010:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095015:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095020:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095025:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095030:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095035:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095040:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095045:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095050:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095055:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095100:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095105:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095110:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095115:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095120:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095125:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095130:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095135:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095140:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095145:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095150:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095155:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095200:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095205:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095210:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095215:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095220:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095225:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095230:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095235:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095240:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095245:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095250:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095255:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095300:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095305:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095310:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095315:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095320:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095325:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095330:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095335:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095340:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095345:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095350:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095355:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095400:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095405:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095410:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095415:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095420:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095425:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095430:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095435:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095440:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095445:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095450:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095455:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0113/095500:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/105823:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/105828:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/105833:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/105838:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/105843:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/105844:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0317/105847:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0317/105848:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/105853:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/105853:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0317/105858:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/105903:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/105904:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0317/105904:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0317/105908:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/105909:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[0317/105912:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0317/105912:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0317/105913:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/105918:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/105923:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/105928:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/105933:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/105938:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/105943:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/105946:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0317/105946:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0317/105948:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/105953:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/105958:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110003:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110008:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110013:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110018:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110023:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110028:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110033:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110038:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110043:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110048:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110053:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110058:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110103:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110108:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110113:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110118:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110123:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110128:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110133:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110138:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110143:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110148:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110150:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0317/110150:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0317/110153:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110158:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110203:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110208:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110213:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110218:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110223:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110228:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110233:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110238:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110243:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110248:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110253:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110258:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110303:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110308:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110313:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110318:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110323:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110328:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110333:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110338:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110343:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110348:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110353:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110358:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110403:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110408:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110413:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110418:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110423:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110428:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110432:INFO:CONSOLE(1)] "TypeError: Cannot use 'in' operator to search for 'fontFamily' in undefined
+    at At (http://127.0.0.1:54321/_DRIVE_E_EVIRD_/F%20Drive/VIRTUAL%20LABS%20DOCUMENTS/SSDL%2C%20VSSDL%20AND%20OFFICIAL%20WEBSITES/vweb/vssdl/exp7s_files/Corrosion%20rate%20reinforced%20concrete/edge_includes/jquery-2.0.3.min.js:5:25403)
+    at Function.x.extend.css (http://127.0.0.1:54321/_DRIVE_E_EVIRD_/F%20Drive/VIRTUAL%20LABS%20DOCUMENTS/SSDL%2C%20VSSDL%20AND%20OFFICIAL%20WEBSITES/vweb/vssdl/exp7s_files/Corrosion%20rate%20reinforced%20concrete/edge_includes/jquery-2.0.3.min.js:5:27475)
+    at http://127.0.0.1:54321/_DRIVE_E_EVIRD_/F%20Drive/VIRTUAL%20LABS%20DOCUMENTS/SSDL%2C%20VSSDL%20AND%20OFFICIAL%20WEBSITES/vweb/vssdl/exp7s_files/Corrosion%20rate%20reinforced%20concrete/edge_includes/jquery-2.0.3.min.js:5:26322
+    at Function.x.extend.access (http://127.0.0.1:54321/_DRIVE_E_EVIRD_/F%20Drive/VIRTUAL%20LABS%20DOCUMENTS/SSDL%2C%20VSSDL%20AND%20OFFICIAL%20WEBSITES/vweb/vssdl/exp7s_files/Corrosion%20rate%20reinforced%20concrete/edge_includes/jquery-2.0.3.min.js:4:5914)
+    at x.fn.extend.css (http://127.0.0.1:54321/_DRIVE_E_EVIRD_/F%20Drive/VIRTUAL%20LABS%20DOCUMENTS/SSDL%2C%20VSSDL%20AND%20OFFICIAL%20WEBSITES/vweb/vssdl/exp7s_files/Corrosion%20rate%20reinforced%20concrete/edge_includes/jquery-2.0.3.min.js:5:26155)
+    at Object.EdgeDOM.InlineTextEditor.getWebFonts (http://127.0.0.1:54321/_DRIVE_E_EVIRD_/F%20Drive/VIRTUAL%20LABS%20DOCUMENTS/SSDL%2C%20VSSDL%20AND%20OFFICIAL%20WEBSITES/vweb/vssdl/exp7s_files/Corrosion%20rate%20reinforced%20concrete/edge_includes/an.inlinetext-editor.author.min.js:37:318)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:32)
+    at <anonymous>:0:61", source:  (1)
+[0317/110433:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110438:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110443:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110448:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110453:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110458:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110503:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110508:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110513:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110518:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110523:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110528:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110533:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110538:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110543:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110548:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110553:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110558:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110603:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110608:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110613:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110618:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110623:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110633:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0317/110635:ERROR:ipc_channel_win.cc(132)] pipe error: 109
+[0329/155657:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/155657:ERROR:gpu_info_collector_win.cc(102)] Can't retrieve a valid WinSAT assessment.
+[0329/155657:ERROR:gl_surface_egl.cc(133)] eglInitialize failed with error UNKNOWN
+[0329/155657:ERROR:gl_surface_win.cc(97)] GLSurfaceEGL::InitializeOneOff failed.
+[0329/155702:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/155707:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/155708:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0329/155709:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0329/155709:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0329/155710:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[0329/155712:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/155717:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/155722:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/155727:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/155732:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/155737:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/155742:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/155747:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/155752:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/155757:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/155802:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/155807:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/155812:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/155817:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/155822:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/155827:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/155832:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/155837:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/155842:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/155847:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/155852:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/155857:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/155902:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/155907:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/155912:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/155917:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/155922:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/155927:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/155932:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/155937:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/155942:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/155947:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/155952:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/155957:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160002:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160007:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160012:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160017:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160022:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160027:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160032:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160037:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160038:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0329/160042:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160047:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160047:ERROR:ipc_channel_win.cc(132)] pipe error: 109
+[0329/160047:ERROR:ipc_channel_win.cc(132)] pipe error: 109
+[0329/160226:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160226:ERROR:gpu_info_collector_win.cc(102)] Can't retrieve a valid WinSAT assessment.
+[0329/160226:ERROR:gl_surface_egl.cc(133)] eglInitialize failed with error UNKNOWN
+[0329/160226:ERROR:gl_surface_win.cc(97)] GLSurfaceEGL::InitializeOneOff failed.
+[0329/160231:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160236:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160238:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0329/160238:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0329/160239:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0329/160239:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[0329/160241:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160246:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160251:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160255:ERROR:ipc_channel_win.cc(132)] pipe error: 109
+[0329/160255:ERROR:ipc_channel_win.cc(132)] pipe error: 109
+[0329/160423:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160423:ERROR:gpu_info_collector_win.cc(102)] Can't retrieve a valid WinSAT assessment.
+[0329/160423:ERROR:gl_surface_egl.cc(133)] eglInitialize failed with error UNKNOWN
+[0329/160423:ERROR:gl_surface_win.cc(97)] GLSurfaceEGL::InitializeOneOff failed.
+[0329/160428:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160433:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160435:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0329/160435:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0329/160435:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0329/160435:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot call method 'appendChild' of undefined", source: v8/appCss (1)
+[0329/160436:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[0329/160438:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160443:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160448:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160453:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160458:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160503:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160508:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160513:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160518:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160523:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160528:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160533:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160538:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160543:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160548:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160553:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160558:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160603:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160608:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160613:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160618:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160623:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160628:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160633:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160638:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160643:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160648:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160653:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160658:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160703:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160708:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160713:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160718:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160723:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160728:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160733:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160738:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160743:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160748:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160753:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160758:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0329/160803:ERROR:ipc_channel_win.cc(132)] pipe error: 109
+[0329/160803:ERROR:ipc_channel_win.cc(405)] pipe error: 232
+[0330/113643:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/113643:ERROR:gpu_info_collector_win.cc(102)] Can't retrieve a valid WinSAT assessment.
+[0330/113643:ERROR:gl_surface_egl.cc(133)] eglInitialize failed with error UNKNOWN
+[0330/113643:ERROR:gl_surface_win.cc(97)] GLSurfaceEGL::InitializeOneOff failed.
+[0330/113648:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/113653:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/113655:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0330/113655:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0330/113656:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0330/113657:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[0330/113658:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/113703:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/113708:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/113713:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/113718:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/113723:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/113728:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/113733:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/113738:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/113743:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/113748:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/113753:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/113758:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/113803:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/113808:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/113813:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/113818:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/113823:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/113828:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/113833:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/113838:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/113840:INFO:CONSOLE(0)] "Uncaught TypeError: Cannot read property 'nodeType' of undefined,0", source: about:docKey-3 (0)
+[0330/113840:INFO:CONSOLE(0)] "Uncaught TypeError: Cannot read property 'nodeType' of undefined", source: http://127.0.0.1:54321/_DRIVE_F_EVIRD_/vssdl/exp7s_files/Corrosion%20rate%20reinforced%20concrete/edge_includes/jquery-2.0.3.min.js (0)
+[0330/113843:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/113849:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/113854:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/113859:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/113904:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/113909:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/113914:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/113919:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/113924:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/113929:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/113934:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/113939:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/113944:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/113949:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/113954:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/113959:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/114004:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/114007:INFO:CONSOLE(0)] "Uncaught TypeError: Cannot read property 'nodeType' of undefined,0", source: about:docKey-11 (0)
+[0330/114007:INFO:CONSOLE(0)] "Uncaught TypeError: Cannot read property 'nodeType' of undefined", source: http://127.0.0.1:54321/_DRIVE_F_EVIRD_/vssdl/exp7s_files/Corrosion%20rate%20reinforced%20concrete/edge_includes/jquery-2.0.3.min.js (0)
+[0330/114009:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/114014:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/114019:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/114024:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/114029:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/114034:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/114039:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/114044:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/114049:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/114054:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/114059:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/114104:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/114109:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/114114:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/114119:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/114124:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/114129:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/114134:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/114139:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/114144:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/114149:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/114154:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/114159:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/114204:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/114209:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/114214:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/114219:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/114224:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/114229:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/114234:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/114239:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0330/114244:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/150649:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/150655:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/150701:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0519/150701:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0519/150701:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/150701:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0519/150702:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[0519/150707:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/150713:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/150719:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/150725:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/150731:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/150737:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/150743:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/150749:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/150754:INFO:CONSOLE(0)] "Uncaught TypeError: Cannot read property 'nodeType' of undefined,0", source: about:docKey-2 (0)
+[0519/150754:INFO:CONSOLE(0)] "Uncaught TypeError: Cannot read property 'nodeType' of undefined", source: http://127.0.0.1:54321/_DRIVE_E_EVIRD_/SSDL%2C%20VSSDL%20AND%20OFFICIAL%20WEBSITES/vweb/vssdl/exp7s_files/Corrosion%20rate%20reinforced%20concrete/edge_includes/jquery-2.0.3.min.js (0)
+[0519/150755:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/150801:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/150807:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/150813:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/150819:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/150825:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/150830:ERROR:ipc_channel_win.cc(132)] pipe error: 109
+[0519/152803:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/152809:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/152815:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0519/152815:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0519/152815:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/152816:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0519/152817:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[0519/152821:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/152827:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/152833:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/152839:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/152845:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/152851:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/152857:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/152903:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/152909:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/152915:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/152921:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/152927:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/152933:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/152939:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/152945:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/152951:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/152957:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153003:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153009:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153015:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153021:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153027:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153033:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153039:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153045:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153051:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153057:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153103:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153109:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153115:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153121:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153127:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153133:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153139:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153145:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153151:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153157:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153203:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153209:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153215:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153221:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153227:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153233:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153239:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153245:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153252:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153258:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153304:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153310:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153316:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153322:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153328:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153334:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153340:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153346:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153352:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153358:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153404:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153410:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153416:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153417:ERROR:ipc_channel_win.cc(132)] pipe error: 109
+[0519/153509:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153515:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153521:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0519/153521:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0519/153521:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153522:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0519/153523:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[0519/153527:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153533:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153539:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153545:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153552:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153558:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153604:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153610:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153616:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153622:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153628:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153634:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153640:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153646:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153652:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153658:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153704:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153710:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153716:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153722:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153728:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153734:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153740:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153746:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153752:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153758:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153804:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0519/153805:ERROR:ipc_channel_win.cc(132)] pipe error: 109
+[0623/112734:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0623/112741:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0623/112747:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0623/112752:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0623/112753:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0623/112754:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0623/112756:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0623/112759:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0623/112800:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0623/112800:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0623/112804:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[0623/112805:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0623/112808:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0623/112808:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0623/112811:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0623/112817:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0623/112823:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0623/112829:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0623/112835:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0623/112841:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0623/112841:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0623/112841:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0623/112847:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0623/112853:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0623/112859:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0623/112905:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0623/112912:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0623/112918:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0623/112924:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0623/112930:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0623/112936:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0623/112942:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0623/112948:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0623/112954:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0623/113000:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0623/113006:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0623/113012:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0623/113018:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0623/113024:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0623/113030:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0623/113036:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0623/113042:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0623/113048:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0623/113054:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0623/113100:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0623/113106:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0623/113112:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0623/113118:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0623/113124:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0623/113130:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0623/113136:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0623/113142:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0623/113148:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0623/113154:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0623/113200:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0623/113206:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0623/113212:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0623/113218:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0623/113224:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0623/113230:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0623/113236:ERROR:ipc_channel_win.cc(132)] pipe error: 109
